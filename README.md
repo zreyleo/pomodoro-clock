@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Build a 25 + 5 Clock
+
+Completé el desafío de freeCodeCamp Build a 25 + 5 Clock para Front End Libraries Certification
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
